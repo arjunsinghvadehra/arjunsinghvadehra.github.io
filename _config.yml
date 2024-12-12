@@ -1,4 +1,11 @@
-
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal # Your Jekyll theme
 title: Arjun Vadehra
 description: Spacecraft Engineer
+
+# Include custom assets
+include:
+  - style.css
+
+# Specify custom styles
+sass:
+  style: compressed
