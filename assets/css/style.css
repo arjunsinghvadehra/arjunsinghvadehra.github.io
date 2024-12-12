@@ -22,12 +22,12 @@ body::before {
 
 /* Style for the title */
 h1 {
-  font-family: 'Arial', sans-serif; /* Choose a clean, modern font */
+  font-family: 'Arial', sans-serif; /* Modern font */
   font-size: 3rem; /* Adjust size */
-  color: #ffffff; /* White text for contrast */
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0); /* Subtle shadow for depth */
-  text-align: right; /* Center align the text */
-  margin-top: 80px; /* Add some spacing from the top */
+  color: #000000; /* Black text */
+  text-align: right; /* Right align the text */
+  margin: 20px 30px 0 0; /* Top margin: 20px, Right margin: 30px, Left/Bottom: 0 */
+  text-shadow: none; /* Remove text-shadow for a cleaner look */
 }
 
 /* Style for the description */
