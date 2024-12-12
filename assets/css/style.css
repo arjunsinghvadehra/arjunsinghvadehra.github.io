@@ -26,8 +26,14 @@ h1 {
   font-size: 5rem; /* Adjust size */
   color: #000000; /* Black text */
   text-align: right; /* Right align the text */
-  margin: 800px 800px 0 0; /* Top margin: 20px, Right margin: 30px, Left/Bottom: 0 */
+  margin: 80px 300px 0 0; /* Top margin: 20px, Right margin: 30px, Left/Bottom: 0 */
   text-shadow: none; /* Remove text-shadow for a cleaner look */
+}
+
+/* Remove link styles if <h1> is a link */
+h1 a {
+  color: inherit; /* Inherit color from <h1> */
+  text-decoration: none; /* Remove underline */
 }
 
 /* Style for the description */
