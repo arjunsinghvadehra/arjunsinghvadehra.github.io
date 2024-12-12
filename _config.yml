@@ -1,13 +1,4 @@
-head: |
-  <style>
-    body {
-      background: url('/Images/Capture.JPG') no-repeat center center fixed;
-      background-size: cover;
-      opacity: 0.1;
-      pointer-events: none;
-    }
-  </style>
-  
+
 theme: jekyll-theme-minimal
 title: Arjun Vadehra
 description: Spacecraft Engineer
