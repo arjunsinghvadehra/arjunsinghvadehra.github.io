@@ -25,9 +25,9 @@ h1 {
   font-family: 'Arial', sans-serif; /* Choose a clean, modern font */
   font-size: 3rem; /* Adjust size */
   color: #ffffff; /* White text for contrast */
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Subtle shadow for depth */
-  text-align: center; /* Center align the text */
-  margin-top: 20px; /* Add some spacing from the top */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0); /* Subtle shadow for depth */
+  text-align: right; /* Center align the text */
+  margin-top: 80px; /* Add some spacing from the top */
 }
 
 /* Style for the description */
