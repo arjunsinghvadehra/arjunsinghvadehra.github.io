@@ -19,3 +19,24 @@ body::before {
   pointer-events: none; /* Allow interaction with content */
   z-index: -1; /* Ensure it stays in the background */
 }
+
+/* Style for the title */
+h1 {
+  font-family: 'Arial', sans-serif; /* Choose a clean, modern font */
+  font-size: 3rem; /* Adjust size */
+  color: #ffffff; /* White text for contrast */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Subtle shadow for depth */
+  text-align: center; /* Center align the text */
+  margin-top: 20px; /* Add some spacing from the top */
+}
+
+/* Style for the description */
+h2 {
+  font-family: 'Georgia', serif; /* A serif font for contrast */
+  font-size: 1.5rem;
+  color: #ddd; /* Light gray text */
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+  text-align: center; /* Center align */
+  margin-top: 10px;
+  font-style: italic; /* Add a classy touch */
+}
