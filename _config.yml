@@ -3,7 +3,3 @@ theme: jekyll-theme-minimal
 title: Arjun Vadehra
 description: Spacecraft Engineer
 
-
-include:
-  - style.css
-  - Images
