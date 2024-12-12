@@ -1,6 +1,6 @@
 
 ### Areas of Interest
-Sustainability and Engineering 
+Sustainability and Engineering;
 Topography and Physics 
 Chess
 Squash 
