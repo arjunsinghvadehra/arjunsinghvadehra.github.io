@@ -1,6 +1,6 @@
 body {
-  background: url('https://arjunsinghvadehra.github.io/Images/Capture.JPG') no-repeat center center fixed;
-  background-size: cover;
-  opacity: 0.5;
-  pointer-events: none;
+  background: url('https://arjunsinghvadehra.github.io/Images/Capture.JPG') no-repeat center center fixed !important;
+  background-size: cover !important;
+  opacity: 0.5 !important;
+  pointer-events: none !important;
 }
