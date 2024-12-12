@@ -1,9 +1,13 @@
-# arjunsinghvadehra.github.io
 
 ## Areas of Interest
-
+- Sustainability and Engineering 
+- Topography and Physics 
+- Chess
+- Squash 
+- Coin Collectors
 
 ## Ongoing Projects
+- Small-scale urban air filteration units
 
 
 ## Education 
