@@ -1,9 +1,12 @@
 # arjunsinghvadehra.github.io
 
-#Areas of Interest
+## Areas of Interest
 
 
-#Ongoing Projects
+## Ongoing Projects
 
 
-#Education 
+## Education 
+- MASc Microsatellite Design - University of Toronto
+- BASc Mechanical Engineering - University of British Columbia
+- IB Diploma - Sir Winston Churchill Secondary
