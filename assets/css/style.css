@@ -23,7 +23,7 @@ body::before {
 /* Style for the title */
 h1 {
   position: absolute; /* Allows precise placement */
-  right: 30%; /* Adjust distance from the right edge */
+  right: 25%; /* Adjust distance from the right edge */
   top: 50%; /* Vertically center it */
   transform: translateY(-50%); /* Correct vertical centering */
   font-family: 'Arial', sans-serif; /* Example font */
@@ -52,7 +52,8 @@ h2 {
 h3 {
   position: relative;
   top: 50%;
-  right: 30%;
+  right:25%;
+  transform: translateY(-50%); /* Correct vertical centering */
   font-family: 'Arial', sans-serif; /* A serif font for contrast */
   font-size: 1.5rem;
   color: #000000; /* Light gray text */
