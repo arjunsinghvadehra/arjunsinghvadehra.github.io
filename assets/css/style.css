@@ -23,6 +23,7 @@ body::before {
 /* Style for the title */
 h1 {
   position: absolute; /* Allows precise placement */
+  position: fixed;
   right: 25%; /* Adjust distance from the right edge */
   top: 35%; /* Vertically center it */
   transform: translateY(-35%); /* Correct vertical centering */
