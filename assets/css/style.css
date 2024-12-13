@@ -62,3 +62,7 @@ p {
   line-height: 1.8; /* Increase line spacing */
   margin: 0 0 0 200px; /* Spacing above and below paragraphs */
 }
+
+a[href*="github.com/arjunsinghvadehra"] {
+  display: none;
+}
