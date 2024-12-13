@@ -29,7 +29,7 @@ h1 {
   transform: translateY(-35%); /* Correct vertical centering */
   font-family: 'Arial', sans-serif; /* Example font */
   font-size: 3.5em; /* Adjust as needed */
-  font-weight: 1200;
+  font-weight: 1500;
   color: black; /* Title color */
   text-align: right; /* Text aligned to the right */
 }
@@ -55,8 +55,8 @@ h3 {
   position: absolute; /* Allows precise placement */
   position: fixed;
   right: 25%; /* Adjust distance from the right edge */
-  top: 47%; /* Vertically center it */
-  transform: translateY(-47%); /* Correct vertical centering */
+  top: 50%; /* Vertically center it */
+  transform: translateY(-50%); /* Correct vertical centering */
   font-family: 'Arial', sans-serif; /* Example font */
   font-size: 1.5em; /* Adjust as needed */
   color: black; /* Title color */
