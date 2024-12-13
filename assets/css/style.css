@@ -72,6 +72,14 @@ p {
   margin: 10px 0 0 200px; /* Spacing above and below paragraphs */
 }
 
+/*Remove git hyperlink*/
 a[href*="github.com/arjunsinghvadehra"] {
   display: none;
+}
+
+/*Link appearance rectification*/
+
+a:hover {
+  text-decoration: none; /* No underline on hover */
+  color: inherit; /* Prevents color change on hover */
 }
