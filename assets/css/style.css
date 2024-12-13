@@ -52,6 +52,7 @@ h2 {
 /* Style for the description */
 h3 {
   position: absolute; /* Allows precise placement */
+  position: fixed;
   right: 25%; /* Adjust distance from the right edge */
   top: 47%; /* Vertically center it */
   transform: translateY(-47%); /* Correct vertical centering */
