@@ -43,7 +43,7 @@ h2 {
   color: #ddd; /* Light gray text */
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
   text-align: center; /* Center align */
-  margin-top: 10px;
+  margin: 10px 0 0 80px;
   font-style: italic; /* Add a classy touch */
 }
 
@@ -52,5 +52,5 @@ p {
   font-size: 1rem; /* Standard font size */
   color: #555; /* Medium gray for better readability */
   line-height: 1.8; /* Increase line spacing */
-  margin: 10px 0 0 40px; /* Spacing above and below paragraphs */
+  margin: 10px 0 0 80px; /* Spacing above and below paragraphs */
 }
