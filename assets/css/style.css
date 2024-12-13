@@ -46,3 +46,11 @@ h2 {
   margin-top: 10px;
   font-style: italic; /* Add a classy touch */
 }
+
+p {
+  font-family: 'Georgia', serif; /* Classy serif font */
+  font-size: 1rem; /* Standard font size */
+  color: #555; /* Medium gray for better readability */
+  line-height: 1.8; /* Increase line spacing */
+  margin: 10px 0; /* Spacing above and below paragraphs */
+}
