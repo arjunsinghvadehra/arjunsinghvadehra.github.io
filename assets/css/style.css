@@ -50,12 +50,14 @@ h2 {
 
 /* Style for the description */
 h3 {
-  position: relative;
-  font-family: 'Arial', sans-serif; /* A serif font for contrast */
-  font-size: 1.5rem;
-  color: #000000; /* Light gray text */
-  text-align: right; /* Center align */\
-  margin: 150px 30px 0 0;
+  position: absolute; /* Allows precise placement */
+  right: 25%; /* Adjust distance from the right edge */
+  top: 40%; /* Vertically center it */
+  transform: translateY(-40%); /* Correct vertical centering */
+  font-family: 'Arial', sans-serif; /* Example font */
+  font-size: 1.5em; /* Adjust as needed */
+  color: black; /* Title color */
+  text-align: right; /* Text aligned to the right */
 }
 
 
