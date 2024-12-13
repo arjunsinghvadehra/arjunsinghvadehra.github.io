@@ -38,7 +38,7 @@ h1 a {
 
 /* Style for the description */
 h2 {
-  font-family: 'Georgia', serif; /* A serif font for contrast */
+  font-family: 'Arial', sans-serif; /* A serif font for contrast */
   font-size: 1.5rem;
   color: #ddd; /* Light gray text */
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
@@ -52,5 +52,5 @@ p {
   font-size: 1rem; /* Standard font size */
   color: #555; /* Medium gray for better readability */
   line-height: 1.8; /* Increase line spacing */
-  margin: 10px 0 40px 0; /* Spacing above and below paragraphs */
+  margin: 10px 0 0 40px; /* Spacing above and below paragraphs */
 }
