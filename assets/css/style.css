@@ -79,7 +79,8 @@ a[href*="github.com/arjunsinghvadehra"] {
 
 /*Link appearance rectification*/
 
-a:hover {
-  text-decoration: none; /* No underline on hover */
-  color: inherit; /* Prevents color change on hover */
+a {
+  text-decoration: none; /* Removes the underline */
+  color: inherit; /* Makes the link color match the surrounding text */
+  font-weight: normal; /* Ensures it matches the surrounding text weight */
 }
