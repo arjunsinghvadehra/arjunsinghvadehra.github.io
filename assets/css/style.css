@@ -48,9 +48,9 @@ h2 {
 }
 
 p {
-  font-family: 'Georgia', sans-serif; /* Classy serif font */
+  font-family: 'Arial', sans-serif; /* Classy serif font */
   font-size: 1rem; /* Standard font size */
   color: #555; /* Medium gray for better readability */
   line-height: 1.8; /* Increase line spacing */
-  margin: 10px 40px 0 0; /* Spacing above and below paragraphs */
+  margin: 10px 0 40px 0; /* Spacing above and below paragraphs */
 }
