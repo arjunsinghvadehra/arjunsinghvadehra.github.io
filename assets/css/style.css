@@ -42,7 +42,7 @@ h2 {
   font-size: 1.5rem;
   color: #000000; /* Light gray text */
   text-align: left; /* Center align */
-  margin: -50px 0 0 200px;
+  margin: 0 0 0 200px;
 }
 
 /* Style for the description */
@@ -60,5 +60,5 @@ p {
   font-size: 1rem; /* Standard font size */
   color: #555; /* Medium gray for better readability */
   line-height: 1.8; /* Increase line spacing */
-  margin: -50px 0 0 200px; /* Spacing above and below paragraphs */
+  margin: 0 0 0 200px; /* Spacing above and below paragraphs */
 }
