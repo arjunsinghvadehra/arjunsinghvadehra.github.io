@@ -28,7 +28,7 @@ h1 {
   top: 35%; /* Vertically center it */
   transform: translateY(-35%); /* Correct vertical centering */
   font-family: 'Arial', sans-serif; /* Example font */
-  font-size: 3em; /* Adjust as needed */
+  font-size: 4em; /* Adjust as needed */
   color: black; /* Title color */
   text-align: right; /* Text aligned to the right */
 }
