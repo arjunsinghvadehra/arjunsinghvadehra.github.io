@@ -45,15 +45,15 @@ h2 {
   font-size: 1.5rem;
   color: #000000; /* Light gray text */
   text-align: left; /* Center align */
-  margin: 10px 0 0 200px;
+  margin: 25px 0 0 200px;
 }
 
 /* Style for the description */
 h3 {
   position: absolute; /* Allows precise placement */
   right: 25%; /* Adjust distance from the right edge */
-  top: 45%; /* Vertically center it */
-  transform: translateY(-45%); /* Correct vertical centering */
+  top: 47%; /* Vertically center it */
+  transform: translateY(-47%); /* Correct vertical centering */
   font-family: 'Arial', sans-serif; /* Example font */
   font-size: 1.5em; /* Adjust as needed */
   color: black; /* Title color */
@@ -67,7 +67,7 @@ p {
   font-size: 1rem; /* Standard font size */
   color: #555; /* Medium gray for better readability */
   line-height: 1.8; /* Increase line spacing */
-  margin: 10px 0 0 200px; /* Spacing above and below paragraphs */
+  margin: 25px 0 0 200px; /* Spacing above and below paragraphs */
 }
 
 a[href*="github.com/arjunsinghvadehra"] {
