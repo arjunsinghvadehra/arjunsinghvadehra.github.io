@@ -16,3 +16,5 @@ Small-scale urban air filteration units<br>
 MASc Microsatellite Design - University of Toronto<br>
 BASc Mechanical Engineering - University of British Columbia<br>
 IB Diploma - Sir Winston Churchill Secondary<br>
+
+[Curriculum Vitae](assets/PDF/ArjunVadehra2024MCHA.pdf) 
