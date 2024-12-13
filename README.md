@@ -17,4 +17,4 @@ MASc Microsatellite Design - University of Toronto<br>
 BASc Mechanical Engineering - University of British Columbia<br>
 IB Diploma - Sir Winston Churchill Secondary<br>
 
-[Curriculum Vitae](assets/PDF/ArjunVadehra2024MCHA.pdf) 
+[Curriculum Vitae](assets/PDF/ArjunVadehra2024MECHA.pdf) 
