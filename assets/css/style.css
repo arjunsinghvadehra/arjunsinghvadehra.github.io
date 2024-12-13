@@ -21,14 +21,15 @@ body::before {
 }
 
 /* Style for the title */
-h1 {
-  position: absolute;
-  font-family: 'Arial', sans-serif; /* Modern font */
-  font-size: 5rem; /* Adjust size */
-  color: #000000; /* Black text */
-  text-align: right; /* Right align the text */
-  margin: 300px 150px 0 0; /* Top margin: 20px, Right margin: 30px, Left/Bottom: 0 */
-  text-shadow: none; /* Remove text-shadow for a cleaner look */
+#title {
+  position: absolute; /* Allows precise placement */
+  right: 10%; /* Adjust distance from the right edge */
+  top: 50%; /* Vertically center it */
+  transform: translateY(-50%); /* Correct vertical centering */
+  font-family: 'Arial', sans-serif; /* Example font */
+  font-size: 3em; /* Adjust as needed */
+  color: black; /* Title color */
+  text-align: right; /* Text aligned to the right */
 }
 
 /* Remove link styles if <h1> is a link */
