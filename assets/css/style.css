@@ -28,8 +28,8 @@ h1 {
   top: 35%; /* Vertically center it */
   transform: translateY(-35%); /* Correct vertical centering */
   font-family: 'Arial', sans-serif; /* Example font */
-  font-size: 3em; /* Adjust as needed */
-  font-weight: 900;
+  font-size: 3.5em; /* Adjust as needed */
+  font-weight: 1200;
   color: black; /* Title color */
   text-align: right; /* Text aligned to the right */
 }
