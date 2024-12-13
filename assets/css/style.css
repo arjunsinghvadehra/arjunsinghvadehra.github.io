@@ -24,8 +24,8 @@ body::before {
 h1 {
   position: absolute; /* Allows precise placement */
   right: 25%; /* Adjust distance from the right edge */
-  top: 40%; /* Vertically center it */
-  transform: translateY(-40%); /* Correct vertical centering */
+  top: 35%; /* Vertically center it */
+  transform: translateY(-35%); /* Correct vertical centering */
   font-family: 'Arial', sans-serif; /* Example font */
   font-size: 3em; /* Adjust as needed */
   color: black; /* Title color */
@@ -52,8 +52,8 @@ h2 {
 h3 {
   position: absolute; /* Allows precise placement */
   right: 25%; /* Adjust distance from the right edge */
-  top: 40%; /* Vertically center it */
-  transform: translateY(-40%); /* Correct vertical centering */
+  top: 45%; /* Vertically center it */
+  transform: translateY(-45%); /* Correct vertical centering */
   font-family: 'Arial', sans-serif; /* Example font */
   font-size: 1.5em; /* Adjust as needed */
   color: black; /* Title color */
