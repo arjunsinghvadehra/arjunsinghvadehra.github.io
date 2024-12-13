@@ -40,11 +40,10 @@ h1 a {
 h2 {
   font-family: 'Arial', sans-serif; /* A serif font for contrast */
   font-size: 1.5rem;
-  color: #ddd; /* Light gray text */
+  color: #000000; /* Light gray text */
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
-  text-align: center; /* Center align */
+  text-align: left; /* Center align */
   margin: 10px 0 0 200px;
-  font-style: italic; /* Add a classy touch */
 }
 
 p {
